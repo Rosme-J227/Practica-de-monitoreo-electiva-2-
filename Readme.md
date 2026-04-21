@@ -6,8 +6,8 @@
 
 ---
 
-![1](.\imagenes\2.png)
+![2](.\imagenes\2.png)
 
 ---
 
-![1](.\imagenes\3.png)
+![3](.\imagenes\3.png)
